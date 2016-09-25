@@ -16,7 +16,7 @@ With architecture aligned to Microsoft's Azure stack.
 ## Management Tools
 
 - Skype for direct communication
-- Slack for group communication
+- [Slack](Slack.md) for group communication
 - Zoom for video communication
 - Guru for knowledge management
 - Quip for project management
