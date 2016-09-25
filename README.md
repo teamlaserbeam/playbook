@@ -7,9 +7,11 @@ We use modern techniques and agile methodologies in an interative process.
 Currently we focus on expertise pioneered by Facebook in:
 
 1. React and React Native
-2. GraphQL and Relay
+2. [GraphQL and Relay](GraphQL.md)
 
 Along with traditional languages like Swift 2/3 and Java.
+
+With architecture aligned to Microsoft's Azure stack.
 
 ## Management Tools
 
