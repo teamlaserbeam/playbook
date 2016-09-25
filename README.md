@@ -15,6 +15,7 @@ Along with traditional languages like Swift 2/3 and Java.
 
 - Skype for direct communication
 - Slack for group communication
+- Zoom for video communication
 - Guru for knowledge management
 - Quip for project management
 - Github for code management
