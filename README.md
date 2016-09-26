@@ -1,4 +1,4 @@
-# Playbook 
+# 🔫 Playbook 
 
 TeamLaserBeam is a digital studio based out of Silcon Valley with a distributed team around the world that contribute to producing and delivering digital products to delight users.
 
@@ -13,7 +13,7 @@ Along with traditional languages like Swift 2/3 and Java.
 
 With architecture aligned to Microsoft's Azure stack.
 
-## Management Tools
+## 👨‍👩‍👦‍👦 Management Tools
 
 - Skype for direct communication
 - [Slack](Slack.md) for group communication
@@ -24,7 +24,7 @@ With architecture aligned to Microsoft's Azure stack.
 - Waffle for task management
 - Hackpad for text management
 
-## Creative Tools
+## 🕹 Creative Tools
 
 - Sketch for design
 - Flinto for prototype
@@ -32,3 +32,5 @@ With architecture aligned to Microsoft's Azure stack.
 - Xcode for code
 - Android Studio for code 
 - Testflight for app feedback
+
+🙌 ISC 2016
