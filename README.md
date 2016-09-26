@@ -29,8 +29,31 @@ With architecture aligned to Microsoft's Azure stack.
 - Sketch for design
 - Flinto for prototype
 - Invision for design feedback
-- Xcode for code
-- Android Studio for code 
+- Atom for code
+- Xcode for build
+- Android Studio for build
 - Testflight for app feedback
+
+## Process
+
+### Pre-production (2 weeks)
+
+- Market research
+- Branding and design
+- Project scoping
+- Prototyping
+
+### Production (6 weeks)
+
+- Development
+- Testing
+- Repeat
+- Deploy
+
+### Post-production (2 weeks)
+- Marketing
+- Product management
+- Community management
+- Analysis
 
 🙌 ISC 2016
