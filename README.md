@@ -1,4 +1,4 @@
-# 🔫 Playbook 
+# 🔫 🕹 📖 🙌 Playbook 
 
 TeamLaserBeam is a digital studio based out of Silcon Valley with a distributed team around the world that contribute to producing and delivering digital products to delight users.
 
