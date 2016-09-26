@@ -1,6 +1,6 @@
 # 🔫 🕹 📖 🙌 Playbook 
 
-TeamLaserBeam is a silicon valley digital studio with globally distributed teams contributing to producing and delivering digital products to delight users.
+[TeamLaserBeam](https://www.teamlaserbeam.com) is a silicon valley digital studio with globally distributed teams contributing to producing and delivering digital products to delight users.
 
 ## 🙏 Our Beliefs
 
