@@ -34,7 +34,7 @@ With architecture aligned to Microsoft's Azure stack.
 - Android Studio for build
 - Testflight for app feedback
 
-## Process
+## ⚙️ Process
 
 ### Pre-production (2 weeks)
 
@@ -51,9 +51,8 @@ With architecture aligned to Microsoft's Azure stack.
 - Deploy
 
 ### Post-production (2 weeks)
-- Marketing
-- Product management
+- Marketing campaigning
 - Community management
-- Analysis
+- Product analysis
 
 🙌 ISC 2016
