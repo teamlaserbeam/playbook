@@ -8,8 +8,6 @@ We believe in the use of technology to amplify and/or augement humans to improve
 
 ## 💯 Our Ways
 
-We use modern techniques and agile methodologies in an interative process.
-
 Currently we focus on expertise pioneered by Facebook in:
 
 1. [React and React Native](React.md)
@@ -17,9 +15,9 @@ Currently we focus on expertise pioneered by Facebook in:
 
 Along with traditional languages like Swift 2/3 and Java.
 
-With architecture aligned to Microsoft's Azure stack.
+With architecture aligned to Microsoft's Azure and Amazon's AWS stack.
 
-## 👨‍👩‍👦‍👦 Our Management Tools
+## 👨‍👩‍👦‍👦 Our Teamwork Tools
 
 - Skype for direct communication
 - [Slack](Slack.md) for group communication
@@ -39,7 +37,9 @@ With architecture aligned to Microsoft's Azure stack.
 - Atom for code
 - Xcode for build
 - Android Studio for build
-- Testflight for app feedback
+- Bitrise for CI
+- Testflight for iOS app testing
+- Testfairy for Android app testing
 
 ## ⚙️ Our Workflow
 
