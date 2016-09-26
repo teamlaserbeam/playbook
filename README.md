@@ -1,6 +1,12 @@
 # 🔫 🕹 📖 🙌 Playbook 
 
-TeamLaserBeam is a digital studio based out of Silcon Valley with a distributed team around the world that contribute to producing and delivering digital products to delight users.
+TeamLaserBeam is a silicon valley digital studio with globally distributed teams contributing to producing and delivering digital products to delight users.
+
+## 🙏 Our Beliefs
+
+We believe in the use of technology to amplify and/or augement humans to improve quality of life. Whatever that means.
+
+## 💯 Our Ways
 
 We use modern techniques and agile methodologies in an interative process.
 
@@ -13,7 +19,7 @@ Along with traditional languages like Swift 2/3 and Java.
 
 With architecture aligned to Microsoft's Azure stack.
 
-## 👨‍👩‍👦‍👦 Management Tools
+## 👨‍👩‍👦‍👦 Our Management Tools
 
 - Skype for direct communication
 - [Slack](Slack.md) for group communication
@@ -23,8 +29,9 @@ With architecture aligned to Microsoft's Azure stack.
 - Github for code management
 - Waffle for task management
 - Hackpad for text management
+- Dropbox for file management
 
-## 🕹 Creative Tools
+## 🕹 Our Creative Tools
 
 - Sketch for design
 - Flinto for prototype
@@ -34,7 +41,7 @@ With architecture aligned to Microsoft's Azure stack.
 - Android Studio for build
 - Testflight for app feedback
 
-## ⚙️ Process
+## ⚙️ Our Workflow
 
 ### Pre-production (2 weeks)
 
@@ -55,4 +62,4 @@ With architecture aligned to Microsoft's Azure stack.
 - Community management
 - Product analysis
 
-🙌 ISC 2016
+ISC (C) 2016
