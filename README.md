@@ -36,7 +36,7 @@ With architecture aligned to Microsoft's Azure and Amazon's AWS stack.
 - Sublime Text for coding
 - Xcode for building
 - Android Studio for building
-- Bitrise for mobile app CI/CD
+- [Bitrise](Bitrise.md) for mobile app CI/CD
 - Codeship for web app CI/CD
 
 ## ⚙️ Our Workflow
