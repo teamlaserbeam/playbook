@@ -21,25 +21,23 @@ With architecture aligned to Microsoft's Azure and Amazon's AWS stack.
 
 - Skype for direct communication
 - [Slack](Slack.md) for group communication
-- Zoom for video communication
-- Guru for knowledge management
-- Quip for project management
+- [Zoom](https://zoom.us) for video communication
+- [Guru](https://getguru.com) for knowledge management
+- [Quip](https://quip.com) for project management
 - Github for code management
-- Waffle for task management
-- Hackpad for text management
+- [Waffle](https://waffle.io) for task management
 - Dropbox for file management
 
 ## 🕹 Our Creative Tools
 
 - Sketch for design
 - Flinto for prototype
-- Invision for design feedback
-- Atom for code
-- Xcode for build
-- Android Studio for build
-- Bitrise for CI
-- Testflight for iOS app testing
-- Testfairy for Android app testing
+- Nuclide for coding
+- Sublime Text for coding
+- Xcode for building
+- Android Studio for building
+- Bitrise for mobile app CI/CD
+- Codeship for web app CI/CD
 
 ## ⚙️ Our Workflow
 
