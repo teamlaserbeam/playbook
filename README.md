@@ -24,7 +24,7 @@ With architecture aligned to Microsoft's Azure and Amazon's AWS stack.
 - [Zoom](https://zoom.us) for video communication
 - [Guru](https://getguru.com) for knowledge management
 - [Quip](https://quip.com) for project management
-- Github for code management
+- [Github](Git.md) for code management
 - [Waffle](https://waffle.io) for task management
 - Dropbox for file management
 
