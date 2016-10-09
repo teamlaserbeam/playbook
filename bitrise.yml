@@ -13,8 +13,8 @@ workflows:
     steps:
     - slack@2.3.0:
         inputs:
-        - webhook_url: https://hooks.slack.com/services/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
-        - channel: "#hellohello"
+        - webhook_url: "$SLACK_WEBHOOK"
+        - channel: "$SLACK_CHANNEL"
         - from_username: Bitrise.io
         - from_username_on_error: ''
         - message: Starting a build!
@@ -34,8 +34,8 @@ workflows:
         - CODECOV_TOKEN: ''
     - slack@2.3.0:
         inputs:
-        - webhook_url: https://hooks.slack.com/services/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
-        - channel: "#hellohello"
+        - webhook_url: "$SLACK_WEBHOOK"
+        - channel: "$SLACK_CHANNEL"
         - from_username: Bitrise.io
         - from_username_on_error: ''
         - message: Tests passed! $BITRISE_XCODE_TEST_RESULT
@@ -50,8 +50,8 @@ workflows:
         - app_id: "$APPLE_APP_ID"
     - slack@2.3.0:
         inputs:
-        - webhook_url: https://hooks.slack.com/services/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
-        - channel: "#hellohello"
+        - webhook_url: "$SLACK_WEBHOOK"
+        - channel: "$SLACK_CHANNEL"
         - from_username: Bitrise.io
         - from_username_on_error: ''
         - message: Build $BITRISE_BUILD_NUMBER deployed!
@@ -64,8 +64,8 @@ workflows:
     steps:
     - slack@2.3.0:
         inputs:
-        - webhook_url: https://hooks.slack.com/services/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
-        - channel: "#hellohello"
+        - webhook_url: "$SLACK_WEBHOOK"
+        - channel: "$SLACK_CHANNEL"
         - from_username: Bitrise.io
         - from_username_on_error: ''
         - message: Starting a build!
@@ -81,8 +81,8 @@ workflows:
         - project_path: "$BITRISE_PROJECT_PATH"
     - slack@2.3.0:
         inputs:
-        - webhook_url: https://hooks.slack.com/services/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
-        - channel: "#hellohello"
+        - webhook_url: "$SLACK_WEBHOOK"
+        - channel: "$SLACK_CHANNEL"
         - from_username: Bitrise.io
         - from_username_on_error: ''
         - message: Tests passed! $BITRISE_XCODE_TEST_RESULT
@@ -92,8 +92,8 @@ workflows:
     - fabric-crashlytics-beta-deploy@2.2.0: {}
     - slack@2.3.0:
         inputs:
-        - webhook_url: https://hooks.slack.com/services/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
-        - channel: "#hellohello"
+        - webhook_url: "$SLACK_WEBHOOK"
+        - channel: "$SLACK_CHANNEL"
         - from_username: Bitrise.io
         - from_username_on_error: ''
         - message: Build $BITRISE_BUILD_NUMBER deployed!
@@ -106,8 +106,8 @@ workflows:
     steps:
     - slack@2.3.0:
         inputs:
-        - webhook_url: https://hooks.slack.com/services/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
-        - channel: "#hellohello"
+        - webhook_url: "$SLACK_WEBHOOK"
+        - channel: "$SLACK_CHANNEL"
         - from_username: Bitrise.io
         - from_username_on_error: ''
         - message: Starting a build!
@@ -127,8 +127,8 @@ workflows:
         - CODECOV_TOKEN: ''
     - slack@2.3.0:
         inputs:
-        - webhook_url: https://hooks.slack.com/services/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
-        - channel: "#hellohello"
+        - webhook_url: "$SLACK_WEBHOOK"
+        - channel: "$SLACK_CHANNEL"
         - from_username: Bitrise.io
         - from_username_on_error: ''
         - message: Tests passed! $BITRISE_XCODE_TEST_RESULT
@@ -151,3 +151,9 @@ app:
   - opts:
       is_expand: true
     CODECOV_TOKEN: 9bab5fdd-fccc-4a5c-b4d6-9b5ceab06af4
+  - opts:
+      is_expand: true
+    SLACK_WEBHOOK: https://hooks.slack.com/services/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
+  - opts:
+      is_expand: true
+    SLACK_CHANNEL: "#hellohello"
