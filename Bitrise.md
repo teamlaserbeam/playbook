@@ -18,12 +18,8 @@ We push to branch to trigger builds.
 
 For ```master``` the builds go to iTunes Connect
 
-- TLB's master workflow: [bitrise.yml](bitrise.yml)
-
 For ```dev``` the builds go to Fabric
-
-- TLB's dev workflow: [Coming soon]()
 
 For ```feature/*``` the builds go to test
 
-- TLB's test workflow: [Coming soon]()
+- TLB's workflow: [bitrise.yml](bitrise.yml)
