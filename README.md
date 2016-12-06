@@ -35,7 +35,6 @@ We are:
 - Android Studio for building
 - [Bitrise](Bitrise.md) for CI/CD
 - Codecov for code coverage
-- Fabric for analysis
 
 ## ⚙️ Our Workflow
 
